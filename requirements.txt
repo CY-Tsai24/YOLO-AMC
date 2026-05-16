@@ -1,4 +1,4 @@
-ultralytics==8.3.113
+ultralytics==8.4.51
 
 opencv-python>=4.11.0
 numpy>=2.0.0
