@@ -1,5 +1,7 @@
 # YOLO-AMC
-An Improved YOLO Architecture with Attention Mechanisms for Building Crack Detection
+YOLO-AMC is an improved YOLO-based architecture that integrates attention mechanisms into the YOLO11 Neck for building crack detection.
+
+The proposed model investigates different attention modules and insertion locations to enhance multi-scale feature representation while maintaining efficient inference performance on edge devices.
 
 ## Architecture Overview
 
