@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+
+title: YOLO-AMC
+
+message: >
+  If you use this repository, please cite our work and
+  acknowledge the original Ultralytics YOLO implementation.
+
+type: software
+
+authors:
+  - given-names: Ching-Yu
+    family-names: Tsai
+    affiliation: Tamkang University
+
+repository-code: "https://github.com/你的帳號/YOLO-AMC"
+
+license: AGPL-3.0
+
+version: 1.0.0
+
+date-released: "2026-05-16"
+
+preferred-citation:
+  type: article
+  title: "YOLO-AMC: An Improved YOLO Architecture with Attention Mechanisms for Building Crack Detection"
+  authors:
+    - given-names: Ching-Yu
+      family-names: Tsai
+  year: 2026
+
+references:
+  - type: software
+    title: Ultralytics YOLO
+    authors:
+      - given-names: Glenn
+        family-names: Jocher
+    repository-code: "https://github.com/ultralytics/ultralytics"

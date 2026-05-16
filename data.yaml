@@ -1,0 +1,10 @@
+# Dataset paths
+train: "path/to/train/images"
+val: "path/to/val/images"
+test: "path/to/test/images"
+#crack1
+#number of classes
+nc: 1
+
+#class
+names: ['crack']
