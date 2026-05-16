@@ -4,3 +4,7 @@ An Improved YOLO Architecture with Attention Mechanisms for Building Crack Detec
 ## Architecture Overview
 
 ![YOLO-AMC Overview](img/architecture_overview.png)
+
+## Performance
+
+![YOLO-AMC Overview](img/performance.png)
