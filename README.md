@@ -18,7 +18,7 @@ If you find this work useful, please consider citing:
 ```bibtex
 @article{tsai2026yoloamc,
   title={YOLO-AMC: An Improved YOLO Architecture with Attention Mechanisms for Building Crack Detection},
-  author={Tsai, Ching-Yu and Lin, Chia-Min and Yang, Chih-Hsing and Wang, Yung-Che and Chiang, Jen-Shiun},
+  author={Tsai, Ching-Yu and Lin, Chia-Min and Yang, Chih-Hsiang and Wang, Yung-Che and Chiang, Jen-Shiun},
   note={Manuscript in preparation},
   year={2026}
 }
