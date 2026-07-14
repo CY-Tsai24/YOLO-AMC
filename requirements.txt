@@ -3,7 +3,7 @@ ultralytics==8.3.113
 opencv-python>=4.11.0
 numpy>=2.0.0
 matplotlib>=3.10.0
-pillow>=11.0.0
+pillow>=11.3.0
 PyYAML>=6.0
 tqdm>=4.67.0
 
