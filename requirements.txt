@@ -8,7 +8,7 @@ PyYAML>=6.0
 tqdm>=4.67.0
 
 pandas>=2.2.0
-scipy>=1.15.0
+scipy>=1.15.3
 scikit-learn>=1.7.0
 scikit-image>=0.25.0
 
